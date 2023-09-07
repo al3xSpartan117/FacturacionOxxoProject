@@ -1,0 +1,8 @@
+RFC:ALS12384564A
+razonSocial:COPPEL SA DE CV
+calle:CARRETERA KILOMETRO 18
+ext:20
+int:5
+colonia:ESPAÑA
+municipio:VALENCIA
+codigoPostal:76589
