@@ -1,0 +1,11 @@
+//*[@id="form:rfc"]        rfc
+//*[@id="form:razon"]      razon
+//*[@id="form:calle"]
+//*[@id="form:ext"]
+//*[@id="form:int"]
+//*[@id="form:colonia"]
+//*[@id="form:dele"]      delegacion o municipio
+//*[@id="form:codigo"]
+//*[@id="form:estado_label"]  --> //*[@id="form:estado_panel"]/div/ul/li[23]
+//*[@id="form:selectOneMenuRegFis_label"] --> //*[@id="form:selectOneMenuRegFis_panel"]/div/ul/li[2]
+//*[@id="form:selectOneMenuCFDI_label"] --> //*[@id="form:selectOneMenuCFDI_panel"]/div/ul/li[9]
