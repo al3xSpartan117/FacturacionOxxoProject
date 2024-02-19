@@ -11,7 +11,7 @@ import time
 #//*[@id="form:growl_container"]/div/div/div[2]/span    #CONTENEDOR EMERGENTE ID VENTA
 #//*[@id="form:growl_container"]/div/div/div[2]/span    #
 #//*[@id="form:growl_container"]/div/div/div[2]/span    #EL TICKET INGRESADO ES VALIDO
-#//*[@id="form:tblTickets:0:j_idt137"]   Boton para retirar ticket de lista
+#//*[@id="form:tblTickets:0:j_idt137"]   Boton para retirar ticket de tickets validos en la pagina
 
 def logFlow(LogFlowCode, info="NO INFO"):
     with open('Sources/logFlow.txt', mode='a') as file_object:
